@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Camiseta",
+        "description": "Camiseta de algodón de alta calidad",
+        "price": 19.99,
+        "thumbnail": "camiseta.webp",
+        "code": "CTA123",
+        "stock": 50
+    },
+    {
+        "title": "Zapatos deportivos",
+        "description": "Zapatos cómodos para correr",
+        "price": 39.99,
+        "thumbnail": "zapatos.webp",
+        "code": "ZPT456",
+        "stock": 30
+    }
+]
